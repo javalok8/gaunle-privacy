@@ -49,10 +49,25 @@ function App() {
         services (e.g., Firebase, AdMob).
       </p>
 
-      <h2>6. Contact</h2>
+      {/* --- NEW CONTACT SECTION --- */}
+      <h2>6. Contact Us</h2>
       <p>
-        If you have any questions, contact us at{" "}
+        For any questions, concerns, or support regarding this application,
+        please contact us directly:
+      </p>
+      <p>
+        <strong>Email:</strong>{" "}
         <a href="mailto:merogaunonline@gmail.com">merogaunonline@gmail.com</a>
+      </p>
+      <p>
+        <strong>Developer:</strong> Lokendra Phagami Pun
+      </p>
+      {/* --- END NEW SECTION --- */}
+
+      <h2>7. Privacy Policy Updates</h2>
+      <p>
+        We may update this policy from time to time. Please review it
+        periodically.
       </p>
     </div>
   );
