@@ -57,13 +57,13 @@ function App() {
       </p>
       <p>
         <strong>Email:</strong>{" "}
-        <a href="mailto:punarjuna@yahoo.co.uk">punarjuna@yahoo.co.uk</a>
+        <a href="mailto:merogaunonline@gmail.com">merogaunonline@gmail.com</a>
       </p>
       <p>
-        <strong>Developer:</strong> Arjuna Garbuja Pun
+        <strong>Developer:</strong> Lokendra Phagami Pun
       </p>
       <p>
-        <strong>Phone:</strong> 07517107171
+        <strong>Phone:</strong> +977-9806685014
       </p>
       {/* --- END NEW SECTION --- */}
 
